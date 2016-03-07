@@ -6,7 +6,7 @@ Additional Samples
 I have enclosed three additional scripts that showcase different skillsets.
 They cover three languages, formal modeling, object oriented code, basic 
 network analysis, and time series.
--MilitantNetworkModel: Written in Python 2, this is the basic framework 
+-Mil Alliance Model: Written in Python 2, this is the basic framework 
 	for a computational formal network model that I am building. It 
 	is very much a work in progress, with the code lagging the paper theory
 	by a couple of itrations, but it has the basic interface and a 
